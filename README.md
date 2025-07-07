@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:jeseniavalentin@email.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:jesenia.v1055@email.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/jesii55"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
