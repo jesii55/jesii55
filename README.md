@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/M3o3v7N.jpg" width="100%" alt="Banner de bienvenida">
-
 <h1 align="center">🌟 Jesenia Valentin 🌟</h1>
 
 <p align="center">
